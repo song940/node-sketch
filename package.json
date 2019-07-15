@@ -1,0 +1,29 @@
+{
+  "name": "sketch.app",
+  "version": "0.0.0",
+  "main": "./src/sketch.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/sketch.app.git"
+  },
+  "keywords": [
+    "sketch"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/sketch.app/issues"
+  },
+  "homepage": "https://github.com/song940/sketch.app#readme",
+  "dependencies": {
+    "jszip": "^3.2.1"
+  },
+  "devDependencies": {},
+  "description": "sketch in node.js"
+}
